@@ -72,3 +72,6 @@ Then update `App.jsx` to use `process.env.REACT_APP_OPENWEATHER_KEY`.
 ## License
 
 This repository does not currently include a license. Add an appropriate LICENSE file if you plan to publish or share the project.
+
+## Contacts
+Linkedin - https://www.linkedin.com/in/pavlo-kucheriavykh-1b8053329
